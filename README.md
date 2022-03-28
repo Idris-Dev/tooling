@@ -74,5 +74,6 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 # Checking to see jenkins auto build action
 # DELETED THIS SHIT
+# this shit just got interesting nFS is on
 # Hope this shit adadad
 # this has to work now
