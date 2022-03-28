@@ -73,5 +73,6 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 # Checking to see jenkins auto build action
-i hope this works
-okay this is not working ketdssd
+# DELETED THIS SHIT
+ASSGGD
+ASSDD
